@@ -40,23 +40,19 @@ public class GitDemo {
      * i.e. if num = 1234
      *  the function will return 4321
      *****/
- branch1
+ 
   
 
     public double findFactorial(int num){
         double factorialNumber = 0;
                 
- main
+ 
         for(int i = 1; i <= num; ++i){
             factorialNumber = factorialNumber * i;
         }
         
- branch1
+ 
         reverseNum = newNumber;
         return newNumber;
-
-
- main
     }
-    
 }
